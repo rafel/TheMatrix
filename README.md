@@ -14,5 +14,7 @@ When the camera moves around, the halls changes position without the user seeing
 Each hall contains several images of a texture loaded by DevIL and later are sent to the shaders throw a shader program.
 Since we are using OpenGL 2.1, we can only modify vertex and fragment shader. 
 The texture is then croped dynamically to give the illusion of the matrix falling text effect. 
+<br />
+The project was developed in Eclipse, Ubuntu
 
 <b>Tags:</b> C++ , Object Oriented , GLEW, GLFW , DeviIL, OpenGL 2.1 , GLSL 1.2, Vertex shader, Fragment shader, GLM
