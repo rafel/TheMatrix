@@ -1,7 +1,7 @@
 # The Matrix
-![Alt text](/debug/screenshot.png?raw=true "The Matrix")
+![Alt text](/Debug/screenshot.png?raw=true "The Matrix")
 <b>You are trapped inside the code, the goal is to find your way outside.</b>
-![Alt text](/debug/rooms.png?raw=true "The halls")
+![Alt text](/Debug/rooms.png?raw=true "The halls")
 When you stand in a hall the code makes sure that the two edges of the hall have two edges attached to each one of them.
 Try to find the glitch to escape the code!
 
