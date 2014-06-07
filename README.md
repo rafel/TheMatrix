@@ -18,4 +18,6 @@ The texture is then croped dynamically to give the illusion of the matrix fallin
 The project was developed in Eclipse, Ubuntu
 
 <b>Tags:</b> C++ , Object Oriented , GLEW, GLFW , DeviIL, OpenGL 2.1 , GLSL 1.2, Vertex shader, Fragment shader, GLM
-<b>Code age:</b> Codes was written in 2014-05
+<br />
+
+<b>Code age: </b> Codes was written in 2014-05
